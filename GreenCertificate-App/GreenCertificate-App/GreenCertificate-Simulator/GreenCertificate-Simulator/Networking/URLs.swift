@@ -10,7 +10,7 @@ import Foundation
 struct URLs {
     
     // MARK: - Main URL address
-    static let main = "http://192.168.0.73:8888/"
+    static let main = "http://192.168.1.8:8888/"
     // Endpoint for: Get Person
     static let getPerson = main + "getPerson"
     // Endpoint for: Create Person
